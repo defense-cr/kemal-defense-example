@@ -1,0 +1,14 @@
+name: kemal-defense-example
+version: 0.1.0
+
+authors:
+  - Rodrigo Pinto <rodrigopqn@gmail.com>
+dependencies:
+  kemal:
+    github: kemalcr/kemal
+  defense:
+    github: defense-cr/defense
+
+crystal: 0.28.0
+
+license: MIT
